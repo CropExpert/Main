@@ -8,5 +8,5 @@ Team members
 * Tanmay Gupta
 * Siddhi Gupta
 * Vaishnavi Saxena
-* Mohommad Umar
+* Mohd. Umar
 
